@@ -1,0 +1,156 @@
+[
+    {
+        "id": 1,
+        "fullName": "Alex Johnson",
+        "age": 28,
+        "gender": "male",
+        "email": "alex.johnson@example.com",
+        "phone": "+1-555-6789",
+        "profileImage": "person-1.jpg",
+        "job": "Marketing Specialist",
+        "workExperience" : "December 2021 - Present",
+        "description": "Alex is a skilled marketing expert focused on customer engagement and brand strategy.",
+        "role": "Customer",
+        "address": {
+            "street": "789 Elm St",
+            "city": "San Francisco",
+            "country": "USA"
+        },
+        "nationality": "American",
+        "interests": ["science", "hiking", "photography"],
+        "image" : "https://res.cloudinary.com/ddp11lqj1/image/upload/v1753369632/person-1_uq2sff.jpg",
+        "isActive": true
+    },
+    {
+        "id": 2,
+        "fullName": "Michael Thompson",
+        "age": 34,
+        "gender": "male",
+        "email": "michael.thompson@example.com",
+        "phone": "+1-555-2345",
+        "profileImage": "person-2.jpg",
+        "job": "Graphic Designer",
+        "workExperience" : "July 2022 - Present",
+        "description": "Michael specializes in brand identity and visual storytelling through creative design.",
+        "role": "User",
+        "address": {
+            "street": "456 Oak Street",
+            "city": "London",
+            "country": "UK"
+        },
+        "nationality": "British",
+        "interests": ["design", "illustration", "cycling"],
+        "image" : "https://res.cloudinary.com/ddp11lqj1/image/upload/v1753369709/person-2_gbudcf.jpg",
+        "isActive": true
+    },
+    {
+        "id": 3,
+        "fullName": "David Richardson",
+        "age": 48,
+        "gender": "male",
+        "email": "david.richardson@example.com",
+        "phone": "+1-555-7890",
+        "profileImage": "person-3.jpg",
+        "job": "Business Consultant",
+        "workExperience" : "November 2023 - Present",
+        "description": "David helps companies optimize performance through strategic planning and leadership training.",
+        "role": "Employee",
+        "address": {
+            "street": "321 Pine Avenue",
+            "city": "New York",
+            "country": "USA"
+        },
+        "nationality": "American",
+        "interests": ["business", "consulting", "reading"],
+        "image" : "https://res.cloudinary.com/ddp11lqj1/image/upload/v1753369729/person-3_m4nfut.jpg",
+        "isActive": true
+    },
+    {
+        "id": 4,
+        "fullName": "Anthony Miller",
+        "age": 29,
+        "gender": "male",
+        "email": "anthony.miller@example.com",
+        "phone": "+1-555-4321",
+        "profileImage": "person-4.jpg",
+        "job": "Fitness Trainer",
+        "workExperience" : "April 2020 - June 2023",
+        "description": "Anthony coaches clients to reach health goals with personalized training and lifestyle plans.",
+        "role": "Freelancer",
+        "address": {
+            "street": "89 Fitness St",
+            "city": "Los Angeles",
+            "country": "USA"
+        },
+        "nationality": "American",
+        "interests": ["fitness", "nutrition", "outdoor sports"],
+        "image" : "https://res.cloudinary.com/ddp11lqj1/image/upload/v1753369754/person-4_quma5p.jpg",
+        "isActive": true
+    },
+    {
+        "id": 5,
+        "fullName": "Nathan Harris",
+        "age": 33,
+        "gender": "male",
+        "email": "nathan.harris@example.com",
+        "phone": "+1-555-9876",
+        "profileImage": "person-5.jpg",
+        "job": "Software Developer",
+        "workExperience" : "November 2020 - Present",
+        "description": "Nathan builds scalable web and mobile applications with modern frameworks and best practices.",
+        "role": "Employee",
+        "address": {
+            "street": "102 Tech Lane",
+            "city": "Seattle",
+            "country": "USA"
+        },
+        "nationality": "American",
+        "interests": ["programming", "coffee", "remote work"],
+        "image" : "https://res.cloudinary.com/ddp11lqj1/image/upload/v1753369775/person-5_ghfhr3.jpg",
+        "isActive": true
+    },
+    {
+        "id": 6,
+        "fullName": "James Walker",
+        "age": 40,
+        "gender": "male",
+        "email": "james.walker@example.com",
+        "phone": "+1-555-2468",
+        "profileImage": "person-6.jpg",
+        "job": "Corporate Manager",
+        "workExperience" : "March 2022 - April 2024",
+        "description": "James is a results-driven manager focused on team growth and operational efficiency.",
+        "role": "Manager",
+        "address": {
+            "street": "200 Business Pkwy",
+            "city": "Chicago",
+            "country": "USA"
+        },
+        "nationality": "American",
+        "interests": ["leadership", "finance", "golf"],
+        "image" : "https://res.cloudinary.com/ddp11lqj1/image/upload/v1753369840/person-6_d0afuo.jpg",
+        "isActive": true
+    },
+    {
+        "id": 7,
+        "fullName": "Ethan Cooper",
+        "age": 31,
+        "gender": "male",
+        "email": "ethan.cooper@example.com",
+        "phone": "+1-555-3210",
+        "profileImage": "person-7.jpg",
+        "job": "Content Writer",
+        "workExperience" : "August 2019 - March 2023",
+        "description": "Ethan crafts engaging articles and marketing content focused on tech and lifestyle topics.",
+        "role": "Freelancer",
+        "address": {
+            "street": "58 Meadow Lane",
+            "city": "Portland",
+            "country": "USA"
+        },
+        "nationality": "American",
+        "interests": ["writing", "travel", "technology"],
+        "image" : "https://res.cloudinary.com/ddp11lqj1/image/upload/v1753369865/person-7_gu6xsc.jpg",
+        "isActive": true
+    }
+]

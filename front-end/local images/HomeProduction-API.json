@@ -1,0 +1,134 @@
+[
+    {
+        "id" : 1,
+        "title" : "Velvet Violet Accent Armchair",
+        "description" : "A luxurious velvet armchair in deep violet, featuring plush cushioning and a cozy silhouette. Ideal for adding a pop of color to living rooms or reading nooks.",
+        "category" : "Armchair",
+        "company" : "Natuzzi",
+        "colors" : ["#8A2BE2", "#E6E6FA", "#808080"],
+        "material" : "Velvet upholstery with solid wood frame",
+        "price" : 495.00,
+        "image" : "https://res.cloudinary.com/ddp11lqj1/image/upload/v1753369981/homeProduction-1_xmdlaq.jpg"
+    },
+    {
+        "id" : 2,
+        "title" : "Padded Accent Chair Set with Side Table",
+        "description" : "A stylish set of two padded accent chairs with a matching side table. The chairs feature plush cushیت and fabric upholstery, perfect for living rooms or reading nooks.",
+        "category" : "Seating Set",
+        "company" : "Signature Design by Ashley",
+        "colors" : ["#000080", "#008000" , "#FFFFFF"],
+        "material" : "Fabric upholstery with solid wood frame",
+        "price" : 348.00,
+        "image" : "https://res.cloudinary.com/ddp11lqj1/image/upload/v1753370102/homeProduction-2_bnsyrt.jpg"
+    },
+    {
+        "id" : 3,
+        "title" : "Outdoor Teak Wood Chaise Lounge",
+        "description" : "A sturdy outdoor chaise lounge made of durable teak wood with an adjustable backrest and weather-resistant white cushioning. Perfect for poolside relaxation.",
+        "category" : "Outdoor Furniture",
+        "company" : "Safavieh", 
+        "colors" : ["#D2B48C", "#654321", "#FFFFFF"],
+        "material" : "Teak wood with weather-resistant fabric cushion",
+        "price" : 450.00,
+        "image" : "https://res.cloudinary.com/ddp11lqj1/image/upload/v1753370167/homeProduction-3_betx4l.jpg"
+    },
+    {
+        "id" : 4,
+        "title" : "White Leather Fainting Couch with Pillows",
+        "description" : "A sleek white leather fainting couch with two plush pillows, featuring a gently raised back at one end. Designed for lounging or light napping in living rooms or bedrooms.",
+        "category" : "Seating",
+        "company" : "Poltrona Frau",
+        "colors" : ["#FFFFFF", "#D9D9D9"],
+        "material" : "Full-grain leather upholstery with hardwood frame",
+        "price" : 2300.00,
+        "image" : "https://res.cloudinary.com/ddp11lqj1/image/upload/v1753370192/homeProduction-4_fyyers.jpg"
+    },
+    {
+        "id" : 5,
+        "title" : "White Sofa on Wooden Floor",
+        "description" : "A minimalist white sofa placed on a warm wooden floor, creating a cozy and modern living space.",
+        "category" : "Seating",
+        "company" : "Generic",
+        "colors" : ["#FFFFFF", "#8B4513"],
+        "material" : "Fabric upholstery with wood legs",
+        "price" : 799.99,
+        "image" : "https://res.cloudinary.com/ddp11lqj1/image/upload/v1753370219/homeProduction-5_c7wklo.jpg"
+    },
+    {
+        "id" : 6,
+        "title" : "Black Fabric Sectional Sofa Near Glass Window",
+        "description" : "A sleek black fabric sectional sofa positioned near a large glass window, offering a modern and airy living space.",
+        "category" : "Seating",
+        "company" : "Generic",
+        "colors" : ["#000000", "#808080", "#8B4513"],
+        "material" : "Fabric upholstery with wooden legs",
+        "price" : 1200.00,
+        "image" : "https://res.cloudinary.com/ddp11lqj1/image/upload/v1753370243/homeProduction-6_s3hvyg.jpg"
+    },
+    {
+        "id" : 7,
+        "title" : "Yellow Sofa in Living Room",
+        "description" : "A vibrant yellow sofa placed in a cozy living room, adding a cheerful pop of color to the space.",
+        "category" : "Seating",
+        "company" : "Generic",
+        "colors" : ["#FFFF00", "#8B4513"],
+        "material" : "Fabric upholstery with wooden legs",
+        "price" : 899.99,
+        "image" : "https://res.cloudinary.com/ddp11lqj1/image/upload/v1753370422/homeProduction-7_b7s8wi.jpg"
+    },
+    {
+        "id" : 8,
+        "title" : "Green 2-Seat Sofa in Modern Living Room",
+        "description" : "A stylish green 2-seat sofa placed in a contemporary living room, offering a comfortable and vibrant seating option.",
+        "category" : "Seating",
+        "company" : "Generic",
+        "colors" : ["#008000", "#8B4513"],
+        "material" : "Fabric upholstery with wooden legs",
+        "price" : 799.99,
+        "image" : "https://res.cloudinary.com/ddp11lqj1/image/upload/v1753370442/homeProduction-8_sdctop.jpg"
+    },
+    {
+        "id" : 9,
+        "title" : "Black Metal Dining Table with Four Chairs and White Ceramic Mug",
+        "description" : "A sleek black metal dining table accompanied by four matching chairs, featuring a white ceramic mug placed on the table, ideal for modern dining spaces.",
+        "category" : "Dining Sets",
+        "company" : "Generic",
+        "colors" : ["#000000", "#FFFFFF", "#C0C0C0"],
+        "material" : "Metal frame with ceramic mug",
+        "price" : 299.99,
+        "image" : "https://res.cloudinary.com/ddp11lqj1/image/upload/v1753370464/homeProduction-9_tv3avb.jpg"
+    },
+    {
+        "id" : 10,
+        "title" : "White Dining Table with Wooden Chairs and Tulip Vase",
+        "description" : "A minimalist white dining table accompanied by wooden chairs, featuring a vase of tulip flowers, perfect for bright and airy dining spaces.",
+        "category" : "Dining Sets",
+        "company" : "Generic",
+        "colors" : ["#FFFFFF", "#8B4513", "#FF6347"],
+        "material" : "Wood frame with ceramic vase",
+        "price" : 349.99,
+        "image" : "https://res.cloudinary.com/ddp11lqj1/image/upload/v1753370481/homeProduction-10_wilqrj.jpg"
+    },
+    {
+        "id" : 11,
+        "title" : "White Bed Cover Near Wall",
+        "description" : "A minimalist bedroom featuring a white bed cover placed near a wall, creating a serene and clean aesthetic.",
+        "category" : "Bedroom",
+        "company" : "Generic",
+        "colors" : ["#FFFFFF", "#D3D3D3"],
+        "material" : "Cotton bed cover with soft pillows",
+        "price" : 499.99,
+        "image" : "https://res.cloudinary.com/ddp11lqj1/image/upload/v1753370501/homeProduction-11_lhwmqt.jpg"
+    },
+    {
+        "id" : 12,
+        "title" : "Black Mattress in Front of a Large Window Behind a Mountain",
+        "description" : "A minimalist bedroom featuring a black mattress placed near a large window, offering a breathtaking view of the mountains during sunset.",
+        "category" : "Bedroom",
+        "company" : "Generic",
+        "colors" : ["#000000", "#A9A9A9", "#FF4500"],
+        "material" : "Memory foam mattress with fabric cover",
+        "price" : 599.99,
+        "image" : "https://res.cloudinary.com/ddp11lqj1/image/upload/v1753370526/homeProduction-12_x209pi.jpg"
+    }
+]

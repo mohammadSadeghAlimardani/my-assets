@@ -1,0 +1,178 @@
+[
+    {
+        "id" : 1,
+        "title" : "Boiled Egg with Fresh Blueberries",
+        "description" : "A light and nutritious breakfast dish featuring a perfectly boiled egg served alongside a handful of fresh, juicy blueberries. Ideal for a healthy start to your day.",
+        "category" : "Breakfast",
+        "price" : 5.00,
+        "image" : "https://res.cloudinary.com/ddp11lqj1/image/upload/v1753365081/menu-1_q4rq6y.jpg"
+    },
+    {
+        "id" : 2,
+        "title" : "Hot Chocolate",
+        "description" : "Rich and creamy hot chocolate served in a black ceramic mug. Perfect for cozy moments or a comforting winter treat.",
+        "category" : "Beverages",
+        "price" : 4.50,
+        "image" : "https://res.cloudinary.com/ddp11lqj1/image/upload/v1753365206/menu-2_hvdams.jpg"
+    },
+    {
+        "id" : 3,
+        "title" : "Mixed Ice Cream Bowl",
+        "description" : "A delightful bowl of assorted ice cream scoops in vibrant colors and flavors. A perfect treat to cool off and indulge your sweet tooth.",
+        "category" : "Dessert",
+        "price" : 6.00,
+        "image" : "https://res.cloudinary.com/ddp11lqj1/image/upload/v1753365265/menu-3_yeonae.jpg"
+    },
+    {
+        "id" : 4,
+        "title" : "Classic Triple Scoop Ice Cream",
+        "description" : "Three scoops of classic ice cream flavors served in a traditional metal bowl. A timeless dessert for all ages.",
+        "category" : "Dessert",
+        "price" : 5.50,
+        "image" : "https://res.cloudinary.com/ddp11lqj1/image/upload/v1753365330/menu-4_czd0p7.jpg"
+    },
+    {
+        "id" : 5,
+        "title" : "Tomato Basil Pasta",
+        "description" : "Al dente pasta tossed in a rich tomato sauce with fresh basil and cherry tomatoes. A classic and satisfying Italian dish.",
+        "category" : "Main Course",
+        "price" : 10.00,
+        "image" : "https://res.cloudinary.com/ddp11lqj1/image/upload/v1753365450/menu-5_plst08.jpg"
+    },
+    {
+        "id" : 6,
+        "title" : "Grilled Steak with Mushrooms and Spaghetti",
+        "description" : "Juicy grilled steak served with sautéed mushrooms and a side of perfectly cooked spaghetti. A hearty meal for meat lovers.",
+        "category" : "Main Course",
+        "price" : 16.00,
+        "image" : "https://res.cloudinary.com/ddp11lqj1/image/upload/v1753365615/menu-6_yapk5a.jpg"
+    },
+    {
+        "id" : 7,
+        "title" : "Spicy Roasted Chicken Wings",
+        "description" : "Crispy roasted chicken wings seasoned with a spicy blend of herbs and spices. Perfect as a starter or a shareable snack.",
+        "category" : "Appetizer",
+        "price" : 8.00,
+        "image" : "https://res.cloudinary.com/ddp11lqj1/image/upload/v1753365641/menu-7_mrdgvz.jpg"
+    },
+    {
+        "id" : 8,
+        "title" : "Assorted Pizzas",
+        "description" : "A variety of delicious pizzas topped with fresh vegetables, cheese, and meats. Perfect for sharing or enjoying solo.",
+        "category" : "Main Course",
+        "price" : 12.00,
+        "image" : "https://res.cloudinary.com/ddp11lqj1/image/upload/v1753365669/menu-8_u9i5mz.jpg"
+    },
+    {
+    "id" : 9,
+        "title" : "Crispy French Fries with Dipping Sauce",
+        "description" : "Golden and crispy French fries served with a side of creamy dipping sauce. A classic favorite for any meal.",
+        "category" : "Appetizer",
+        "price" : 4.00,
+        "image" : "https://res.cloudinary.com/ddp11lqj1/image/upload/v1753366602/menu-9_lkmvbi.jpg"
+    },
+    {
+        "id" : 10,
+        "title" : "Classic Hamburger",
+        "description" : "A juicy hamburger with fresh lettuce, tomato, and a soft bun. Perfect for a satisfying meal any time of the day.",
+        "category" : "Main Course",
+        "price" : 9.00,
+        "image" : "https://res.cloudinary.com/ddp11lqj1/image/upload/v1753366629/menu-10_jyucy6.jpg"
+    },
+    {
+        "id" : 11,
+        "title" : "Steaming Black Tea",
+        "description" : "A hot glass of freshly brewed black tea, perfect for warming up on a chilly day or relaxing any time.",
+        "category" : "Beverages",
+        "price" : 2.50,
+        "image" : "https://res.cloudinary.com/ddp11lqj1/image/upload/v1753366656/menu-11_ckpiwr.jpg"
+    },
+    {
+        "id" : 12,
+        "title" : "Butter Cookie Cake with Fresh Fruits",
+        "description" : "A rich butter cookie cake topped with creamy frosting and fresh, juicy fruits. A delightful dessert to satisfy your sweet cravings.",
+        "category" : "Dessert",
+        "price" : 7.00,
+        "image" : "https://res.cloudinary.com/ddp11lqj1/image/upload/v1753366692/menu-12_i9hq55.jpg"
+    },
+    {
+        "id" : 13,
+        "title" : "Strawberry Cheesecake",
+        "description" : "Creamy and smooth cheesecake topped with fresh strawberries. A classic dessert loved by everyone.",
+        "category" : "Dessert",
+        "price" : 6.50,
+        "image" : "https://res.cloudinary.com/ddp11lqj1/image/upload/v1753366737/menu-13_qdmov9.jpg"
+    },
+    {
+        "id" : 14,
+        "title" : "Pink and White Icing Cake Slice",
+        "description" : "A delicious slice of cake covered with smooth pink and white icing, served elegantly with a silver fork. Perfect for celebrations or a sweet treat.",
+        "category" : "Dessert",
+        "price" : 6.00,
+        "image" : "https://res.cloudinary.com/ddp11lqj1/image/upload/v1753366761/menu-14_gx2pao.jpg"
+    },
+    {
+        "id" : 15,
+        "title" : "Cappuccino Coffee",
+        "description" : "A warm cup of cappuccino coffee topped with frothy milk foam. Perfect for a cozy coffee break.",
+        "category" : "Beverages",
+        "price" : 3.50,
+        "image" : "https://res.cloudinary.com/ddp11lqj1/image/upload/v1753366786/menu-15_bsyyj1.jpg"
+    },
+    {
+        "id" : 16,
+        "title" : "Strawberry Pancakes",
+        "description" : "Fluffy pancakes topped with fresh sliced strawberries, perfect for a sweet and satisfying breakfast.",
+        "category" : "Breakfast",
+        "price" : 6.50,
+        "image" : "https://res.cloudinary.com/ddp11lqj1/image/upload/v1753366836/menu-16_t9qhuz.jpg"
+    },
+    {
+        "id" : 17,
+        "title" : "Gourmet Dish with Vegetables",
+        "description" : "A beautifully plated gourmet meal served with fresh vegetables and savory sauce. Perfect for a fine dining experience.",
+        "category" : "Main Course",
+        "price" : 18.00,
+        "image" : "https://res.cloudinary.com/ddp11lqj1/image/upload/v1753366861/menu-17_rb0wxo.jpg"
+    },
+    {
+        "id" : 18,
+        "title" : "Classic Cheesecake",
+        "description" : "A creamy and smooth classic cheesecake slice, perfect for dessert lovers looking for a timeless treat.",
+        "category" : "Dessert",
+        "price" : 6.00,
+        "image" : "https://res.cloudinary.com/ddp11lqj1/image/upload/v1753366885/menu-18_njl0sd.jpg"
+    },
+    {
+        "id" : 19,
+        "title" : "Hot Brewed Beverage",
+        "description" : "A freshly brewed hot beverage served in a rustic brown ceramic cup, perfect for a cozy and comforting moment.",
+        "category" : "Beverages",
+        "price" : 3.00,
+        "image" : "https://res.cloudinary.com/ddp11lqj1/image/upload/v1753366910/menu-19_qdmm1e.jpg"
+    },
+    {
+        "id" : 20,
+        "title" : "Classic White Tea",
+        "description" : "A classic serving of white ceramic teacup with saucer and stainless steel teaspoon. Perfect for a refined tea experience.",
+        "category" : "Beverages",
+        "price" : 2.50,
+        "image" : "https://res.cloudinary.com/ddp11lqj1/image/upload/v1753366936/menu-20_jrhz49.jpg"
+    },
+    {
+        "id" : 21,
+        "title" : "Strawberry Milkshake",
+        "description" : "A refreshing strawberry milkshake topped with whipped cream. Perfect for a sweet and cool treat.",
+        "category" : "Beverages",
+        "price" : 5.00,
+        "image" : "https://res.cloudinary.com/ddp11lqj1/image/upload/v1753366961/menu-21_zfkpqx.jpg"
+    },
+    {
+        "id" : 22,
+        "title" : "Chocolate Milkshake",
+        "description" : "A rich and creamy chocolate milkshake topped with whipped cream. A perfect indulgence for chocolate lovers.",
+        "category" : "Beverages",
+        "price" : 5.50,
+        "image" : "https://res.cloudinary.com/ddp11lqj1/image/upload/v1753366984/menu-22_kim5dy.jpg"
+    }
+]

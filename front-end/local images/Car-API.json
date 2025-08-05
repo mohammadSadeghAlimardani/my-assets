@@ -1,0 +1,313 @@
+[
+    {
+        "id": 1,
+        "make": "BMW",
+        "model": "E46 330Ci",
+        "year": 2005,
+        "colors": ["#FFFFFF", "#000000", "#C0C0C0", "#0000FF", "#FF0000"],
+        "price": 22000,
+        "mileage": 120000,
+        "fuelType": "Gasoline",
+        "transmission": "SMG II (6-speed)",
+        "bodyType": "Coupe",
+        "engine": {
+            "type": "Inline 6",
+            "displacement": "3.0L",
+            "power": "225 hp",
+            "torque": "214 lb-ft"
+        },
+        "performance": {
+            "0to100": "6.3 seconds",
+            "topSpeed": "250 km/h"
+        },
+        "dimensions": {
+            "length": "4,520 mm",
+            "width": "1,780 mm",
+            "height": "1,380 mm",
+            "wheelbase": "2,710 mm",
+            "curbWeight": "1,450 kg"
+        },
+        "features": [
+            "Leather Upholstery",
+            "Dual-Zone Climate Control",
+            "Premium Sound System",
+            "Xenon Headlights",
+            "Sport Suspension"
+        ],
+        "image": "https://res.cloudinary.com/ddp11lqj1/image/upload/v1753371016/car-1_fdevyi.jpg",
+        "isAvailable": true
+    },
+    {
+        "id": 2,
+        "make": "BMW",
+        "model": "Z4 sDrive30i Convertible",
+        "year": 2025,
+        "colors": ["#FF0000", "#FFFFFF", "#000000", "#C0C0C0", "#0000FF"],
+        "price": 55000,
+        "mileage": 5000,
+        "fuelType": "Gasoline",
+        "transmission": "8-speed Automatic",
+        "bodyType": "Convertible Coupe",
+        "engine": {
+            "type": "Inline 4",
+            "displacement": "2.0L",
+            "power": "255 hp",
+            "torque": "295 lb-ft"
+        },
+        "performance": {
+            "0to100": "5.2 seconds",
+            "topSpeed": "250 km/h"
+        },
+        "dimensions": {
+            "length": "4,324 mm",
+            "width": "1,866 mm",
+            "height": "1,309 mm",
+            "wheelbase": "2,470 mm",
+            "curbWeight": "1,400 kg"
+        },
+        "features": [
+            "Leather Upholstery",
+            "Dual-Zone Climate Control",
+            "Premium Sound System",
+            "Xenon Headlights",
+            "Sport Suspension",
+            "Retractable Soft Top"
+        ],
+        "image": "https://res.cloudinary.com/ddp11lqj1/image/upload/v1753371036/car-2_jiqq1n.jpg",
+        "isAvailable": true
+    },
+    {
+        "id": 3,
+        "make": "Mercedes-Benz",
+        "model": "AMG GT 63 S E Performance",
+        "year": 2025,
+        "colors": ["#808080", "#000000", "#C0C0C0", "#0000FF", "#FF0000"],
+        "price": 217345,
+        "mileage": 10000,
+        "fuelType": "Hybrid",
+        "transmission": "9-speed Automatic",
+        "bodyType": "Coupe",
+        "engine": {
+            "type": "V8 Twin-Turbo + Electric Motor",
+            "displacement": "4.0L",
+            "power": "671 hp",
+            "torque": "752 lb-ft"
+        },
+        "performance": {
+            "0to100": "3.3 seconds",
+            "topSpeed": "250 km/h"
+        },
+        "dimensions": {
+            "length": "4,725 mm",
+            "width": "1,950 mm",
+            "height": "1,400 mm",
+            "wheelbase": "2,850 mm",
+            "curbWeight": "1,960 kg"
+        },
+        "features": [
+            "AMG SPEEDSHIFT® MCT 9-speed transmission",
+            "AMG Performance 4MATIC+ all-wheel drive",
+            "AMG RIDE CONTROL active suspension",
+            "AMG DYNAMIC SELECT drive modes",
+            "Burmester 3D surround sound system",
+            "MBUX infotainment system with augmented reality navigation"
+        ],
+        "image": "https://res.cloudinary.com/ddp11lqj1/image/upload/v1753371053/car-3_l4mgjf.jpg",
+        "isAvailable": true
+    },
+    {
+        "id": 4,
+        "make": "Audi",
+        "model": "R8 V10 Performance",
+        "year": 2025,
+        "colors": ["#808080", "#000000", "#C0C0C0", "#0000FF", "#FF0000"],
+        "price": 200000,
+        "mileage": 15000,
+        "fuelType": "Gasoline",
+        "transmission": "7-speed S tronic",
+        "bodyType": "Coupe",
+        "engine": {
+            "type": "V10",
+            "displacement": "5.2L",
+            "power": "610 hp",
+            "torque": "560 Nm"
+        },
+        "performance": {
+            "0to100": "3.2 seconds",
+            "topSpeed": "310 km/h"
+        },
+        "dimensions": {
+            "length": "4,426 mm",
+            "width": "1,940 mm",
+            "height": "1,240 mm",
+            "wheelbase": "2,650 mm",
+            "curbWeight": "1,580 kg"
+        },
+        "features": [
+            "Audi Virtual Cockpit",
+            "Bang & Olufsen Sound System",
+            "Dynamic Steering",
+            "Adaptive Cruise Control",
+            "LED Matrix Headlights"
+        ],
+        "image": "https://res.cloudinary.com/ddp11lqj1/image/upload/v1753371123/car-4_t3qqji.jpg",
+        "isAvailable": true
+    },
+    {
+        "id": 5,
+        "make": "Lamborghini",
+        "model": "Aventador SVJ",
+        "year": 2025,
+        "colors": ["#00FF00", "#FFFFFF", "#000000", "#C0C0C0", "#0000FF"],
+        "price": 517000,
+        "mileage": 10000,
+        "fuelType": "Gasoline",
+        "transmission": "7-speed Automatic",
+        "bodyType": "Coupe",
+        "engine": {
+            "type": "V12",
+            "displacement": "6.5L",
+            "power": "770 hp",
+            "torque": "720 Nm"
+        },
+        "performance": {
+            "0to100": "2.9 seconds",
+            "topSpeed": "350+ km/h"
+        },
+        "dimensions": {
+            "length": "4,735 mm",
+            "width": "1,990 mm",
+            "height": "1,136 mm",
+            "wheelbase": "2,650 mm",
+            "curbWeight": "1,580 kg"
+        },
+        "features": [
+            "Active Aerodynamics",
+            "Carbon Fiber Monocoque",
+            "AMG SPEEDSHIFT® MCT 9-speed transmission",
+            "AMG Performance 4MATIC+ all-wheel drive",
+            "AMG RIDE CONTROL active suspension",
+            "AMG DYNAMIC SELECT drive modes",
+            "Burmester 3D surround sound system",
+            "MBUX infotainment system with augmented reality navigation"
+        ],
+        "image": "https://res.cloudinary.com/ddp11lqj1/image/upload/v1753371166/car-5_psf1se.jpg",
+        "isAvailable": true
+    },
+    {
+        "id": 6,
+        "make": "Alfa Romeo",
+        "model": "4C Spider",
+        "year": 2025,
+        "colors": ["#FF0000", "#FFFFFF", "#000000", "#C0C0C0", "#0000FF"],
+        "price": 60000,
+        "mileage": 5000,
+        "fuelType": "Gasoline",
+        "transmission": "6-speed Dual Clutch",
+        "bodyType": "Coupe",
+        "engine": {
+            "type": "Inline-4 Turbocharged",
+            "displacement": "1.75L",
+            "power": "237 hp",
+            "torque": "258 lb-ft"
+        },
+        "performance": {
+            "0to100": "4.5 seconds",
+            "topSpeed": "258 km/h"
+        },
+        "dimensions": {
+            "length": "3,989 mm",
+            "width": "1,864 mm",
+            "height": "1,183 mm",
+            "wheelbase": "2,380 mm",
+            "curbWeight": "1,080 kg"
+        },
+        "features": [
+            "Carbon Fiber Monocoque Chassis",
+            "Alfa DNA Dynamic Control System",
+            "Rear-Wheel Drive",
+            "Dual Clutch Transmission",
+            "LED Headlights",
+            "Aluminum Subframes",
+            "Limited Storage Space"
+        ],
+        "image": "https://res.cloudinary.com/ddp11lqj1/image/upload/v1753371183/car-6_lodqyk.jpg",
+        "isAvailable": true
+    },
+    {
+        "id": 7,
+        "make": "Renault",
+        "model": "Laguna",
+        "year": 2025,
+        "colors": ["#008000", "#FFFFFF", "#000000", "#C0C0C0", "#0000FF"],
+        "price": 25000,
+        "mileage": 30000,
+        "fuelType": "Gasoline",
+        "transmission": "Automatic",
+        "bodyType": "Sedan",
+        "engine": {
+            "type": "Inline-4",
+            "displacement": "2.0L",
+            "power": "140 hp",
+            "torque": "200 Nm"
+        },
+        "performance": {
+            "0to100": "9.5 seconds",
+            "topSpeed": "200 km/h"
+        },
+        "dimensions": {
+            "length": "4,700 mm",
+            "width": "1,800 mm",
+            "height": "1,450 mm",
+            "wheelbase": "2,700 mm",
+            "curbWeight": "1,350 kg"
+        },
+        "features": [
+            "Touchscreen Infotainment System",
+            "Bluetooth Connectivity",
+            "Rearview Camera",
+            "Automatic Climate Control",
+            "Cruise Control"
+        ],
+        "image": "https://res.cloudinary.com/ddp11lqj1/image/upload/v1753371237/car-7_pjejrl.jpg",
+        "isAvailable": true
+    },
+    {
+        "id": 8,
+        "make": "Honda",
+        "model": "Civic Sedan Hybrid",
+        "year": 2025,
+        "colors": ["#0000FF", "#FFFFFF", "#000000", "#C0C0C0", "#FF0000"],
+        "price": 30000,
+        "mileage": 15000,
+        "fuelType": "Hybrid",
+        "transmission": "CVT",
+        "bodyType": "Sedan",
+        "engine": {
+            "type": "Inline-4 + Electric Motor",
+            "displacement": "2.0L",
+            "power": "200 hp",
+            "torque": "N/A"
+        },
+        "performance": {
+            "0to100": "6.6 seconds",
+            "topSpeed": "N/A"
+        },
+        "dimensions": {
+            "length": "4,678 mm",
+            "width": "1,800 mm",
+            "height": "1,415 mm",
+            "wheelbase": "2,700 mm",
+            "curbWeight": "1,350 kg"
+        },
+        "features": [
+            "Apple CarPlay/Android Auto",
+            "Honda Sensing Safety Suite",
+            "LED Headlights",
+            "Dual-Zone Automatic Climate Control",
+            "Adaptive Cruise Control"
+        ],
+        "image": "https://res.cloudinary.com/ddp11lqj1/image/upload/v1753371253/car-8_oehteq.jpg",
+        "isAvailable": true
+    }
+]
