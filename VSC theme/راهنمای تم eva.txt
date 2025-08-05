@@ -1,0 +1,7 @@
+// "editorUnnecessaryCode.border": "#A9A9AA", 		کامنت کن تا خطی زیر متغیر بلا استفاده نشان ندهد(خط 178 کد)
+"editorUnnecessaryCode.opacity": "#00000065",		برای کمرنگ کردن متغیر بلا استفاده(خط 179 کد)
+
+
+این کد ها بعد از نصب تم ایوا ، در مسیر زیر قرار دارد
+
+users/saratel/.vscode/extensions/fisheva.eva-theme/theme/Eva-Light-Italic-Bold.json
