@@ -1,0 +1,1 @@
+- if you want to deploy manually on netlify, you must deploy "build" folder

@@ -1,0 +1,1 @@
+if instead of return component, we return HTML, we must set key={} for parent element
