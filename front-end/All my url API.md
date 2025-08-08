@@ -7,8 +7,10 @@ myjson : (your json must be public)
 
 jsonbin : (your json must be public)
 
+    contacts-API : 'https://api.jsonbin.io/v3/b/68965db4203a8b52b5e21b0c'
     people-API : 'https://api.jsonbin.io/v3/b/6884d95f7b4b8670d8a7a6b7'
     menu-API : 'https://api.jsonbin.io/v3/b/6884d8bcf7e7a370d1ee448f'
     homeProduction-API : 'https://api.jsonbin.io/v3/b/6884d90b7b4b8670d8a7a69f'
     car-API : 'https://api.jsonbin.io/v3/b/6884d9ba7b4b8670d8a7a6d5'
     coffeeshop-API : 'https://api.jsonbin.io/v3/b/6887c3d17b4b8670d8a8c7f4'
+
