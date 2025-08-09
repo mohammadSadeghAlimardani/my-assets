@@ -214,7 +214,7 @@ table {
 }
 
 h1 {
-    font-size: 1.5rem;
+    font-size: 2rem;
 }
 h2 {
     font-size: 1.5rem;
@@ -244,8 +244,20 @@ p {
     h2 {
         font-size: 1.25rem;
     }
+    h3 {
+        font-size: 1.083rem;
+    }
+    h4 {
+        font-size: 0.87rem;
+    }
+    h5 {
+        font-size: 0.75rem;
+    }
+    h6 {
+        font-size: 0.59rem;
+    }
     p {
-        font-size: 0.83rem;
+        font-size: 0.87rem;
     }
 }
 
@@ -1164,4 +1176,5 @@ form .form-row div button {
         width: 92.5%;
     }
 }
+
 
