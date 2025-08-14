@@ -399,51 +399,50 @@ img {
     height: 2rem;
 }
 .dotted-loading > section .dot-1 {
-    background-color: #eaeaea;
+    background-color: #e0e0e0;
     animation: changeColor_dot1 1s linear infinite;
 }
 .dotted-loading > section .dot-2 {
-    background-color: #b9b9b9;
+    background-color: #6c6c6c;
     animation: changeColor_dot2 1s linear infinite;
 }
 .dotted-loading > section .dot-3 {
-    background-color: #7c7c7c;
+    background-color: #010101;
     animation: changeColor_dot3 1s linear infinite;
 }
 @keyframes changeColor_dot1 {
     0% {
-        background-color: rgb(224, 224, 224);
+        background-color: #e0e0e0;
     }
-    50%{
-        background-color: rgb(108, 108, 108);
+    50% {
+        background-color: #6c6c6c;
     }
     100% {
-        background-color: rgb(1, 1, 1);
+        background-color: #010101;
     }
 }
 @keyframes changeColor_dot2 {
     0% {
-        background-color: rgb(1, 1, 1);
+        background-color: #010101;
     }
-    50%{
-        background-color: rgb(224, 224, 224);
+    50% {
+        background-color: #e0e0e0;
     }
     100% {
-        background-color: rgb(108, 108, 108);
+        background-color: #6c6c6c;
     }
 }
 @keyframes changeColor_dot3 {
     0% {
-        background-color: rgb(108, 108, 108);
+        background-color: #6c6c6c;
     }
-    50%{
-        background-color: rgb(1, 1, 1);
+    50% {
+        background-color: #010101;
     }
     100% {
-        background-color: rgb(224, 224, 224);
+        background-color: #e0e0e0;
     }
 }
-
 /*
 <div className="dotted-loading">
     <section>
@@ -708,6 +707,7 @@ img {
         width: 92.5%;
     }
 }
+
 
 
 
