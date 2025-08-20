@@ -13,4 +13,5 @@ jsonbin : (your json must be public)
     homeProduction-API : 'https://api.jsonbin.io/v3/b/6884d90b7b4b8670d8a7a69f'
     car-API : 'https://api.jsonbin.io/v3/b/6884d9ba7b4b8670d8a7a6d5'
     coffeeshop-API : 'https://api.jsonbin.io/v3/b/6887c3d17b4b8670d8a8c7f4'
+    Mobile-Shop-API : 'https://api.jsonbin.io/v3/b/68a5e0e1ae596e708fcf1eb7'
 
