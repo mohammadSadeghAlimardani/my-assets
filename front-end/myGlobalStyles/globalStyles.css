@@ -297,7 +297,6 @@ img {
 /* ================= */
 
 .alert {
-    margin: 2.5rem 0;
     text-transform: capitalize;
     padding: 0.75rem;
     border-radius: 0.5rem;
@@ -783,3 +782,4 @@ columns-9xl      96rem (1536px)
         grid-template-columns: 1fr;
     }
 }
+
