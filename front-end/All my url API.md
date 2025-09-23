@@ -15,4 +15,5 @@ jsonbin : (your json must be public)
     coffeeshop-API : 'https://api.jsonbin.io/v3/b/6887c3d17b4b8670d8a8c7f4'
     Mobile-Shop-API : 'https://api.jsonbin.io/v3/b/68a5e0e1ae596e708fcf1eb7'
     Type-Speed-Test-API : 'https://api.jsonbin.io/v3/b/68a9e931d0ea881f40618008'
+    Library-API : 'https://api.jsonbin.io/v3/b/68d251c6ae596e708ff861fa'
 
