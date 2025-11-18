@@ -23,5 +23,18 @@ mockapi.io : (we can create endpoint and search an object with it's unique id)
     cars-API : https://6902ead4d0f10a340b21d927.mockapi.io/cars
     unique-car : https://6902ead4d0f10a340b21d927.mockapi.io/cars/{id}
 
+npoint.io
+
+    contacts-API : https://api.npoint.io/7d8d81b6240264558517
+    people-API : https://api.npoint.io/d30d080f2dcdeb3623ea
+    menu-API : https://api.npoint.io/c2369235138dcb0228f6
+    homeProduction-API : https://api.npoint.io/14ae8f80921b2dfaa0a9
+    coffeeshop-API : https://api.npoint.io/e0102edc73a1e6726966
+    mobile-shop-API : https://api.npoint.io/83b8478a612b47dc2180
+    type-speed-test-API : https://api.npoint.io/3ac538c9d36d074dca3c
+    library-API : https://api.npoint.io/0027ac0228813269dd0c
+    cars-API : https://api.npoint.io/ceea2e3318d460fd81d8
+
+
 
 
