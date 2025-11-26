@@ -22,7 +22,7 @@ mockapi.io : (we can create endpoint and search an object with it's unique id)
 
     cars-API : https://6902ead4d0f10a340b21d927.mockapi.io/cars
     unique-car : https://6902ead4d0f10a340b21d927.mockapi.io/cars/{id}
-    recipes : https://6902ead4d0f10a340b21d927.mockapi.io/recipes
+    recipes : https://6927530726e7e41498fddf69.mockapi.io/recipes
 
 npoint.io
 
@@ -35,6 +35,7 @@ npoint.io
     type-speed-test-API : https://api.npoint.io/3ac538c9d36d074dca3c
     library-API : https://api.npoint.io/0027ac0228813269dd0c
     cars-API : https://api.npoint.io/ceea2e3318d460fd81d8
+
 
 
 
