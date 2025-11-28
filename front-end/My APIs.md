@@ -8,13 +8,11 @@ jsonbin : (your json must be public)
     Mobile-Shop : https://api.jsonbin.io/v3/b/68a5e0e1ae596e708fcf1eb7
     Type-Speed-Test : https://api.jsonbin.io/v3/b/68a9e931d0ea881f40618008
     Library : https://api.jsonbin.io/v3/b/68d251c6ae596e708ff861fa
-    default-Cars : https://api.jsonbin.io/v3/b/69033183ae596e708f379a32
 
 
-mockapi.io : (we can create endpoint and search an object with it's unique id)
+mockapi.io : (we can search specific item)
 
-    cars : https://6902ead4d0f10a340b21d927.mockapi.io/cars
-    unique-car : https://6902ead4d0f10a340b21d927.mockapi.io/cars/{id}
+    cars : https://6927530726e7e41498fddf69.mockapi.io/cars
     recipes : https://6927530726e7e41498fddf69.mockapi.io/recipes
 
 npoint.io
@@ -27,7 +25,7 @@ npoint.io
     mobile-shop : https://api.npoint.io/83b8478a612b47dc2180
     type-speed-test : https://api.npoint.io/3ac538c9d36d074dca3c
     library : https://api.npoint.io/0027ac0228813269dd0c
-    cars : https://api.npoint.io/ceea2e3318d460fd81d8
+
 
 
 
