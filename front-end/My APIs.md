@@ -2,7 +2,6 @@ jsonbin : (your json must be public)
 
     contacts : https://api.jsonbin.io/v3/b/68965db4203a8b52b5e21b0c
     people : https://api.jsonbin.io/v3/b/6884d95f7b4b8670d8a7a6b7
-    homeProduction : https://api.jsonbin.io/v3/b/6884d90b7b4b8670d8a7a69f
     Mobile-Shop : https://api.jsonbin.io/v3/b/68a5e0e1ae596e708fcf1eb7
 
 
@@ -20,6 +19,7 @@ npoint.io
     coffeeshop : https://api.npoint.io/e0102edc73a1e6726966
     mobile-shop : https://api.npoint.io/83b8478a612b47dc2180
     type-speed-test : https://api.npoint.io/3ac538c9d36d074dca3c
+
 
 
 
