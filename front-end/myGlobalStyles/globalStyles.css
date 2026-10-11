@@ -452,6 +452,7 @@ h6 {
 /* ======================== */
 
 .section-center {
+    width : 92.5%;
     max-width: 1240px;
     margin: 0 auto;
 }
