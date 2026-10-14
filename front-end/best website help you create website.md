@@ -22,4 +22,4 @@ https://react-icons.github.io/react-icons/      => find icons
 https://undraw.co                               => find beautiful svg images
 https://www.behance.net/                        => find website templates
 https://land-book.com/                          => find website templates
-https://no.pinterest.com/                       => best website all over the history for find templates
+https://no.pinterest.com/                       => best website all over the history for find website templates
